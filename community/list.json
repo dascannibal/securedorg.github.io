@@ -152,13 +152,6 @@
      "location":"Montpellier",
      "country":"France",
      "link":"https://www.botconf.eu/"
-    },
-    {
-     "name":"BsidesLjubljana",
-     "month":"March",
-     "location":"Ljubljana",
-     "country":"Slovenia",
-     "link":"https://0x7e2.bsidesljubljana.si/"
    },
    {
      "name":"Steelcon",
@@ -187,5 +180,12 @@
      "location":"Grenoble",
      "country":"France",
      "link":"https://grehack.fr/"
+    }
+    {
+     "name":"LAYERone",
+     "month":"May",
+     "location":"Los Angeles"
+     "country":"United States"
+     "link":"http://www.layerone.org/"
     }
  ]
